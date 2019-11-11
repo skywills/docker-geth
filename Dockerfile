@@ -1,4 +1,4 @@
-FROM ethereum/client-go
+FROM ethereum/client-go:stable
 
 EXPOSE 8545 8546 30303 30303/udp
 
